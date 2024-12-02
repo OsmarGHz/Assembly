@@ -1,0 +1,5 @@
+ MOV Ax, 0x00F1
+ MOV Bx,0x0031
+ SUB Ax,Bx
+ ADD Ax,0x0019  
+ 

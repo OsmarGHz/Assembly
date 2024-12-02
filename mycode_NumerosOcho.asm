@@ -1,0 +1,3 @@
+MOV Dx,2030h
+MOV AL,0xF0
+OUT Dx,AL

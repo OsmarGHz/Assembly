@@ -1,0 +1,2 @@
+ MOV Ax, 0x0005    
+ ADD Ax,0x0003

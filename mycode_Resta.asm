@@ -1,0 +1,2 @@
+MOV AL,0x01
+SUB Ax,0x02
